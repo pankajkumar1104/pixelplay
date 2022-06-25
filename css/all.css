@@ -1,0 +1,36 @@
+.menu {
+	text-align: center;
+	margin-top: 13px;
+}
+.menu:hover {
+	background-color: #b2e61c;
+}
+.menu:hover h3 {
+	color: #fff !important;	
+}
+body {
+	background-color: #ffffff;
+}
+.menu > h3 {
+	color: #777 !important;
+}
+.content-container {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid #ddd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.video-text {
+	font-weight: bold;
+	font-size: 76px;	
+}
+.video-text p:hover {
+	color: #b2e61c;
+}
+.contact-us-text {
+	text-align: center;
+}
+.center {
+	text-align: center;
+}
